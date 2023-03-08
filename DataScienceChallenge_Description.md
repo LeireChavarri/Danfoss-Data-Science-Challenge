@@ -3,7 +3,10 @@
 
 <h3 style="text-align: center;"> Help us reduce the energy consumption of buildings and win a trip to the Digital Nations Conference in Venice!</h3>
 
-Danfoss is holding for first time a software conference for our digital talents! You will get the chance to expand your network and meet professionals in the software development industry and get to know new technologies and trends in top leading company on digitalization and energy efficienct solutions. 
+Danfoss is excited to announce our inaugural software conference for digital talents. This event will offer a unique opportunity to expand your network and connect with professionals in the software development industry. As a top leading company in digitalization and energy-efficient solutions, our conference will showcase the latest technologies and trends in the field. We invite you to join us for this unique opportunity and unparalleled experience.
+
+<h3 style="text-align: center;"> Challenge Description</h3>
+
 
 ![image](https://user-images.githubusercontent.com/63345770/222718762-f48361fd-9189-41b1-826d-e83a83edee10.png)
 
@@ -48,7 +51,7 @@ Please send us your problem resolution to leire.chavarri@danfoss.com and tell us
 - how you solved it and what methods you have applied. Visualizations are a plus!
 - What other data driven techniques can be implemented to reduce the consumption of the building further?
 
-*The conference takes place June 13-15 and the winner will be chosen based on the true answer, the methodology explained and the visualizations supporting it.
+*The conference is scheduled to take place from June 13th to 15th. The selection of the winner will be based on the veracity of the response, the comprehensiveness of the methodology described, and the effectiveness of supporting visualizations.
 
 
 
