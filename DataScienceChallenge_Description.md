@@ -1,9 +1,9 @@
 # Danfoss Data Science Challenge - IT Days 2023
 
 
-## Help us reduce the energy consumption of buildings and win a trip to the Digital Nations Conference in Venice!
+<h3 style="text-align: center;"> Help us reduce the energy consumption of buildings and win a trip to the Digital Nations Conference in Venice!</h3>
 
-Danfoss is holding for first time a conference only for our digital talents! You will get the chance to expand your network and meet professionals in the software development industry and get to know new technologies and trends in top leading company on energy efficienct solutions. 
+Danfoss is holding for first time a software conference for our digital talents! You will get the chance to expand your network and meet professionals in the software development industry and get to know new technologies and trends in top leading company on digitalization and energy efficienct solutions. 
 
 ![image](https://user-images.githubusercontent.com/63345770/222718762-f48361fd-9189-41b1-826d-e83a83edee10.png)
 
