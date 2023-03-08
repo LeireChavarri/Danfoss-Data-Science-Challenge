@@ -47,11 +47,13 @@ Find [here](challenge_data.csv) a link to our dataset where you will find the da
 
 
 
-Please send us your problem resolution to leire.chavarri@danfoss.com and tell us:
+Please submit your problem resolution preferably in pdf format to https://forms.gle/CYt5aQ6C2rLxJAFTA and tell us:
 - how you solved it and what methods you have applied. Visualizations are a plus!
 - What other data driven techniques can be implemented to reduce the consumption of the building further?
 
-*The conference is scheduled to take place from June 13th to 15th. The selection of the winner will be based on the veracity of the response, the comprehensiveness of the methodology described, and the effectiveness of supporting visualizations.
+Contact email: leire.chavarri@danfoss.com
+
+*The conference is scheduled to take place from June 13th to 15th. The selection of the winner will be based on the veracity of the response, the comprehensiveness of the methodology described, and the effectiveness of supporting visualizations.*
 
 
 
