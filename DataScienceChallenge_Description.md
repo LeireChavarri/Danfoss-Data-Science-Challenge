@@ -26,7 +26,7 @@ The weather compensation curve (Heat Curve) assures that the temperature of the 
 Traditionally, the Heat Curve for space heating is set based on buildings construction year and through trial and error methods where often it is overestimated to avoid underheating of apartments. Consequently, consuming more energy than expected.
 Now, with the use of data we capture from the building sensors and the ECL controllers, we can set the optimal Heat Curve to assure highest energy savings and comfort! But for this, we need your help. 
 
-Find [here](challenge_data.csv) a link to our dataset where you will find the data consisting of Outdoor Temperature, Indoor Temperature and Heating Curve (all in Celsius) and datetime for a specific building.
+Find [here](challenge_data.csv) a link to our dataset where you will find the data consisting of Outdoor Temperature, Indoor Temperature, Heating Curve (all in Celsius) and datetime for a specific building.
 
 **We want you to find what is the most optimal Heat Curve for heating the building to 21°C for the following points:**
 	
