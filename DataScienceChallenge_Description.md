@@ -1,6 +1,10 @@
 # Danfoss Data Science Challenge - IT Days 2023
 
-## Help us reduce the energy consumption of buildings!
+
+## Help us reduce the energy consumption of buildings and win a trip to the Digital Nations Conference in Venice!
+
+Danfoss is holding for first time a conference only for our digital talents! You will get the chance to expand your network and meet professionals in the software development industry and get to know new technologies and trends in top leading company on energy efficienct solutions. 
+
 ![image](https://user-images.githubusercontent.com/63345770/222718762-f48361fd-9189-41b1-826d-e83a83edee10.png)
 
 **Electronic controllers (ECL)** are intelligent temperature regulators for district heating and domestic hot water systems. By means of weather compensation, they can be adapted to a variety of district heating systems, ensuring a high level of comfort and optimum energy utilization. 
@@ -40,9 +44,11 @@ Find [here](challenge_data.csv) a link to our dataset where you will find the da
 
 
 
-Please send us your problem resolution to xxxxxx@danfoss.com and tell us:
+Please send us your problem resolution to leire.chavarri@danfoss.com and tell us:
 - how you solved it and what methods you have applied. Visualizations are a plus!
 - What other data driven techniques can be implemented to reduce the consumption of the building further?
+
+*The conference takes place June 13-15 and the winner will be chosen based on the true answer, the methodology explained and the visualizations supporting it.
 
 
 
